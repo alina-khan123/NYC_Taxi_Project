@@ -1,0 +1,10 @@
+*.parquet
+*.csv
+data/
+datasets/
+models/
+outputs/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.zip
